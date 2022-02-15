@@ -1,0 +1,2 @@
+# hardcore-mode
+Mod Minecraft 
