@@ -1,0 +1,2 @@
+on break:
+	spawn 5 silverfish at player

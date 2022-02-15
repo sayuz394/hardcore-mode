@@ -1,0 +1,4 @@
+every 10 second:		
+	loop all players:
+		spawn a creeper at players
+		give a random item out of all items to the players

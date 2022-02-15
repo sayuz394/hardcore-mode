@@ -1,0 +1,5 @@
+every 60 seconds:
+	loop all players:
+		create an explosion of force 50 at players
+	
+	

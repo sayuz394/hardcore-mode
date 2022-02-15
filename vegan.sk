@@ -1,0 +1,6 @@
+on death of pig or cow:
+	kill the player
+	send "Parah Kamu Membunuh hewan Hewan juga manusia"
+    
+	
+	

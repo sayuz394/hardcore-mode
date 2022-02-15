@@ -1,0 +1,4 @@
+on bed enter:
+	kill the player
+	
+	
